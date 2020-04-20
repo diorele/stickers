@@ -15,104 +15,120 @@
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "01_Cuppy_smile.webp",
-          "emojis": ["☕","🙂"]
+          "image_file": "01Heartbroken.webp",
+          "emojis": ["💔","😩"]
         },
         {
-          "image_file": "02_Cuppy_lol.webp",
-          "emojis": ["😄","😀"]
+          "image_file": "02Sunglasses.webp",
+          "emojis": ["😎","😏"]
         },
         {
-          "image_file": "03_Cuppy_rofl.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "03Sick.webp",
+          "emojis": ["🤧","🤢"]
         },
         {
-          "image_file": "04_Cuppy_sad.webp",
-          "emojis": ["😩","😰"]
+          "image_file": "04Eyeslove.webp",
+          "emojis": ["😍","😻"]
         },
         {
-          "image_file": "05_Cuppy_cry.webp",
+          "image_file": "05Sad.webp",
+          "emojis": ["😢","💧"]
+        },
+        {
+          "image_file": "06Selfie.webp",
+          "emojis": ["🤳🏼","😙"]
+        },
+        {
+          "image_file": "07Mdr.webp",
+          "emojis": ["😂","🤣"]
+        },
+        {
+          "image_file": "08Evil.webp",
+          "emojis": ["😈","👹"]
+        },
+        {
+          "image_file": "09Angel.webp",
+          "emojis": ["😇","👼"]
+        },
+        {
+          "image_file": "10Boxer.webp",
+          "emojis": ["🥊","😡"]
+        },
+        {
+          "image_file": "11Bubble.webp",
+          "emojis": ["😎","👄"]
+        },
+        {
+          "image_file": "12Elvis.webp",
+          "emojis": ["😏","🧑"]
+        },
+        {
+          "image_file": "13Dab.webp",
+          "emojis": ["😒","😎"]
+        },
+        {
+          "image_file": "14Party.webp",
+          "emojis": ["🎉","🍸"]
+        },
+        {
+          "image_file": "15KissLove.webp",
+          "emojis": ["😘","😍"]
+        },
+        {
+          "image_file": "16Party.webp",
+          "emojis": ["🎉","🍻"]
+        },
+        {
+          "image_file": "17Chef.webp",
+          "emojis": ["🍴","🍕"]
+        },
+        {
+          "image_file": "18Cry.webp",
           "emojis": ["😭","💧"]
         },
         {
-          "image_file": "06_Cuppy_love.webp",
-          "emojis": ["😍","♥"]
+          "image_file": "19Knocked.webp",
+          "emojis": ["🤕","🤯"]
         },
         {
-          "image_file": "07_Cuppy_hate.webp",
-          "emojis": ["💔","👎"]
+          "image_file": "20MoneyM.webp",
+          "emojis": ["💸","💰"]
         },
         {
-          "image_file": "08_Cuppy_lovewithmug.webp",
-          "emojis": ["😍","💑"]
+          "image_file": "21MoneyMBlack.webp",
+          "emojis": ["💸","💰"]
         },
         {
-          "image_file": "09_Cuppy_lovewithcookie.webp",
-          "emojis": ["😘","🍪"]
+          "image_file": "22MoneyW.webp",
+          "emojis": ["💸","💰"]
         },
         {
-          "image_file": "10_Cuppy_hmm.webp",
-          "emojis": ["🤔","😐"]
+          "image_file": "23MoneyWBlack.webp",
+          "emojis": ["💸","💰"]
         },
         {
-          "image_file": "11_Cuppy_upset.webp",
-          "emojis": ["😱","😵"]
+          "image_file": "24FUW.webp",
+          "emojis": ["🖕","🤬"]
         },
         {
-          "image_file": "12_Cuppy_angry.webp",
-          "emojis": ["😡","😠"]
+          "image_file": "25FUWBlack.webp",
+          "emojis": ["🖕","🤬"]
         },
         {
-          "image_file": "13_Cuppy_curious.webp",
-          "emojis": ["❓","🤔"]
+          "image_file": "26FUM.webp",
+          "emojis": ["🖕","🤬"]
         },
         {
-          "image_file": "14_Cuppy_weird.webp",
-          "emojis": ["🌈","😜"]
+          "image_file": "27FUMBlack.webp",
+          "emojis": ["🖕","🤬"]
         },
         {
-          "image_file": "15_Cuppy_bluescreen.webp",
-          "emojis": ["💻","😩"]
+          "image_file": "28Nails.webp",
+          "emojis": ["💅","💆"]
         },
         {
-          "image_file": "16_Cuppy_angry.webp",
-          "emojis": ["😡","😤"]
-        },
-        {
-          "image_file": "17_Cuppy_tired.webp",
-          "emojis": ["😩","😨"]
-        },
-        {
-          "image_file": "18_Cuppy_workhard.webp",
-          "emojis": ["💻","🌃"]
-        },
-        {
-          "image_file": "19_Cuppy_shine.webp",
-          "emojis": ["🎉","✨"]
-        },
-        {
-          "image_file": "20_Cuppy_disgusting.webp",
-          "emojis": ["🤮","👎"]
-        },
-        {
-          "image_file": "21_Cuppy_hi.webp",
-          "emojis": ["🖐","🙋"]
-        },
-        {
-          "image_file": "22_Cuppy_bye.webp",
-          "emojis": ["🖐","👋"]
-        },
-        {
-          "image_file": "23_Cuppy_greentea.webp",
-          "emojis": ["🍵","😌"]
-        },
-        {
-          "image_file": "24_Cuppy_phone.webp",
-          "emojis": ["📱","😦"]
-        },
-        {
-          "image_file": "25_Cuppy_battery.webp",
-          "emojis": ["🔋","😵"]
+          "image_file": "29Diamonds.webp",
+          "emojis": ["💍","💎"]
         }
       ]
     }
